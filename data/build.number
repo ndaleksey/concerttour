@@ -1,6 +1,6 @@
 #Ant properties
-#Tue Feb 06 00:21:36 MSK 2018
-build.builddate=20180206 0021
+#Tue Feb 06 00:42:32 MSK 2018
+build.builddate=20180206 0042
 build.group.id=de.hybris.platform
 build.module.name=platform-module
 build.releasedate=20171129 1516
